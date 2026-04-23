@@ -1,26 +1,36 @@
 # AI Stock Analyzer Dashboard
 
-An interactive AI-powered stock analysis tool built with Python and Streamlit.
+A full-featured stock analysis and portfolio decision system built with Python, Streamlit, and financial data APIs.
 
-## Features
-- Real-time stock data using yfinance
-- RSI and MACD technical indicators
-- Multi-stock comparison engine
-- Buy / Hold / Sell signal generation
-- Confidence scoring system
-- Interactive dashboard UI
+# Features
 
-## Tech Stack
+- Technical Indicators (RSI, MACD, Moving Averages)
+- AI Signal Engine (Buy / Sell / Hold logic)
+- Portfolio Allocation System (risk-adjusted)
+- Backtesting Engine (strategy vs market performance)
+- Risk Metrics (max drawdown, win rate)
+- Trade Signal Log
+- Interactive Visualizations (Plotly)
+- Stock Categorization (growth, safe, ETFs, etc.)
+
+# What This Project Demonstrates
+
+- Data analysis and transformation (pandas)
+- Financial modeling concepts
+- Strategy evaluation and validation
+- Building user-facing analytical tools
+- Translating raw data into actionable insights
+
+# Tech Stack
+
 - Python
 - Streamlit
-- yfinance
-- pandas
+- Pandas / NumPy
+- yFinance API
+- Plotly
 
-## Future Improvements
-- Investor profile modes (conservative, balanced, aggressive)
-- Real-time updates
-- News sentiment analysis
-- Advanced visualization (Plotly)
+# Future Improvements
 
-## Author
-Built as a personal data analytics / fintech learning project.
+- News sentiment integration
+- Machine learning predictions
+- Multi-asset portfolio optimization
